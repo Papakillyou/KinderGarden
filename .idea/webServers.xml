@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="6f692115-23cc-46d6-8a42-b7352aac6324" name="localhost" url="http://localhost/">
+        <fileTransfer port="0" mountedRoot="D:\PhpStudy\phpstudy_pro\WWW" accessType="MOUNT" />
+      </webServer>
+      <webServer id="ccd45eb9-7efd-4d4a-8e96-f1f41a463399" name="class" url="http://10.10.128.99/s17011044">
+        <fileTransfer host="10.10.128.99" port="21" rootFolder="/var/www/html/s17011044">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
